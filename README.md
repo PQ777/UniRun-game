@@ -20,7 +20,7 @@
 
 ＠장애물과 바닥은 랜덤＠
 
-조작키: 마우스 왼쪽(점프)
+조작키: 마우스 왼쪽(점프/길게 점프O)
 
 난이도: 1 / 2(X) / 3(X)
 
@@ -46,7 +46,7 @@ Explain: A game to avoid obstacles by jumping over a running character.
 
 @Obstacles and floors are random@
 
-Operation keys: Mouse LeftButton(Jump)
+Operation keys: Mouse LeftButton(Jump/Long Jump O)
 
 Difficulty level: 1 / 2(X) / 3(X)
 
@@ -58,3 +58,4 @@ Additional function: Register score / restart
 💡 Play 💡
 -------------
  
+![unirun play](https://user-images.githubusercontent.com/102477933/211822338-ca865832-a07f-47d7-9338-3b20b15e4ed5.gif)
