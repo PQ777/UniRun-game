@@ -6,6 +6,8 @@
 
 <b>캐릭터 UnityChan
 
+※따라하면서 제작한 게임 추후 부가기능을 넣어 만들 예정※
+
 <a href = "https://github.com/IJEMIN/Unity-Programming-Essence-2021">retr0 Github</a>
 
 <a href = "https://unity-chan.com/">Unity-Chan</a>
@@ -33,6 +35,8 @@
 <b>Produced by referring to the retr0 2022 book</b>
 
 <b>Character UnityChan
+
+※The game was produced while copying will be made with additional functions later※
 
 <a href = "https://github.com/IJEMIN/Unity-Programming-Essence-2021">retr0 Github</a>
 
